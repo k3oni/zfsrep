@@ -8,10 +8,11 @@ Managed ZFS sync Replication/Snapshoting script
   - Can snapshot from main to slave and restore from slave to main if available on both systems
   - Stops replication/snapshoting if an error is ancountered(in case it runs automatic using crontab) 
 
+It was build for Illumos/Openindiana, might work on others but there is no guarantee. 
 
 ###Requirements
 
-	- 2 ZFS based filesystems
+	- 2 ZFS based filesystems on 2 different servers
 	- SSH key based login between the two servers
 
 ###Script requirements

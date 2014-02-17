@@ -14,8 +14,11 @@ Managed ZFS sync Replication/Snapshoting script
 	- 2 ZFS based filesystems
 	- SSH key based login between the two servers
 
-###Value requirements
+###Script requirements
 
 	scriptdir=""  - location of the script ex. /opt/scripts
 	emailalert=""  - you email account, alerts will be sent to this account
 	port=""  - ssh port used ex. -p2200
+
+
+###[Quick How-to](https://github.com/k3oni/zfsrep/wiki)

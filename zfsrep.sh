@@ -3,7 +3,7 @@
 # Created: 09-15-09 Florian Neagu - michaelneagu@gmail.com - https://github.com/k3oni
 # Updated: 01-30-13 Florian Neagu
 #
-# Description: Managed ZFS SYNC Replication/Snapshot-ing script
+# Description: Managed ZFS SYNC Replication/Snapshoting script
 #              - Provides initial, manual and periodic sync-ing of zfs filesystems
 #              - Manages snapshots on local and remote filesystem
 #			   - Can snapshot from main to slave and restore from slave to main if available on both systems

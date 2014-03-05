@@ -23,3 +23,7 @@ It was build for Illumos/Openindiana, might work on others but there is no guara
 
 
 ###[Quick How-to](https://github.com/k3oni/zfsrep/wiki)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/k3oni/zfsrep/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
